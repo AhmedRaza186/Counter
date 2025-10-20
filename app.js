@@ -8,5 +8,7 @@ i--
    document.querySelector('h2').innerText = i
 }
 function reset(){
-   document.querySelector('h2').innerText = 0
+   i = 0
+   document.querySelector('h2').innerText = i
+
 }
